@@ -46,7 +46,7 @@ class About extends Me {
 ```
 ---
 
-### 🌠 What I'm Up To
+## 🌠 What I'm Up To
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?raw=true" width="25"/> Exploring Next.js & AWS Amplify <br>
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif?raw=true" width="25"/> Building modern web apps with clean UI/UX <br>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?raw=true" width="25"/> Ask me about React, Node.js, or Cloud Development <br>
