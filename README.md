@@ -1,5 +1,5 @@
 <div align="center" width="50%"> 
-  <img src="https://github.com/wan-ilhami/profile/blob/main/dev-working_rounded.gif?raw=true" alt="Workspace" width="80%"/>  
+  <img src="https://github.com/wan-ilhami/profile/blob/main/dev-working_rounded.gif?raw=true" alt="Workspace" width="50%"/>  
 
   ![Profile Views](https://komarev.com/ghpvc/?username=wan-ilhami&style=flat&color=orange&label=PROFILE+VIEWS)
   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwan-ilhami&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
