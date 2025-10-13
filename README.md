@@ -9,10 +9,10 @@
 ---
 
 # 💫 About Me
-🚀 Building: **E-Nota Hantaran (Felda)** — making the web a little smarter, one feature at a time.<br>
-🤝 Open to: **Collaborating on fun web projects, creative ideas, or open-source adventures.**<br>
-🌱 Currently diving deeper into **React.js**, **Next.js**, and **AWS**.<br>
-🎨 Fun fact: I can spend hours tweaking a single UI pixel… just to make it *feel* right 😄
+- 🚀 Building: **E-Nota Hantaran (Felda)** — making the web a little smarter, one feature at a time.<br>
+- 🤝 Open to: **Collaborating on fun web projects, creative ideas, or open-source adventures.**<br>
+- 🌱 Currently diving deeper into **React.js**, **Next.js**, and **AWS**.<br>
+- 🎨 Fun fact: I can spend hours tweaking a single UI pixel… just to make it *feel* right 😄
 
 ---
 
