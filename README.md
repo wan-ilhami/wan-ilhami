@@ -63,7 +63,7 @@ class About extends Me {
 
 ---
 
-<div align="center"> <a href="https://github.com/wan-ilhami"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> </a> <details> <summary>📊 More Stats</summary> <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"> </details> <hr>
+<div align="center"> <a href="https://github.com/wan-ilhami"> <img src="https://raw.githubusercontent.com/wan-ilhami/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/wan-ilhami/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/wan-ilhami/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> </a> <details> <summary>📊 More Stats</summary> <img align="center" src="https://raw.githubusercontent.com/wan-ilhami/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"> </details> <hr>
 
 Code Cycle 💻
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/>
