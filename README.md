@@ -46,11 +46,22 @@ class About extends Me {
 ```
 ---
 
-## 🌠 What I'm Up To
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?raw=true" width="25"/> Exploring Next.js & AWS Amplify <br>
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif?raw=true" width="25"/> Building modern web apps with clean UI/UX <br>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?raw=true" width="25"/> Ask me about React, Node.js, or Cloud Development <br>
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?raw=true" width="20"/> I debug best after midnight 🌙
+<div align="center">
+
+### 💫 What I'm Up To
+
+<br>
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?raw=true" width="28"/> ✨ **Exploring Next.js & AWS Amplify** <br>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif?raw=true" width="28"/> 🎨 **Building modern web apps with clean UI/UX** <br>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?raw=true" width="28"/> ⚛️ **Ask me about React, Node.js, or Cloud Development** <br>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?raw=true" width="22"/> 🌙 **I debug best after midnight**
+
+<br><br>
+
+⭐ *Turning caffeine into clean code since day one.*
+
+</div>
 
 
 ---
