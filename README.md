@@ -55,7 +55,18 @@ class About extends Me {
 
 ---
 
-<div align="center"> <a href="https://github.com/wan-ilhami"> <img src="https://raw.githubusercontent.com/wan-ilhami/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/wan-ilhami/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/wan-ilhami/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> </a> <details> <summary>📊 More Stats</summary> <img align="center" src="https://raw.githubusercontent.com/wan-ilhami/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"> </details> </div>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Main Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=wan-ilhami&theme=dark&hide_border=true&include_all_commits=false&count_private=true" height="180em" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=wan-ilhami&theme=dark&hide_border=true" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wan-ilhami&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="180em" />
+
+
+</div>
+
 
 
 ---
