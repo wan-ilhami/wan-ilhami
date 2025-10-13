@@ -11,9 +11,6 @@
 
 ---
 
-<div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/divider.gif?raw=true" width="80%"/>
-</div>
 
 # 💫 About Me
 🚀 Building: **E-Nota Hantaran (Felda)** — making the web a little smarter, one feature at a time. <br>
@@ -23,9 +20,6 @@
 
 ---
 
-<div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/divider.gif?raw=true" width="80%"/>
-</div>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20Use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
@@ -54,18 +48,18 @@ class About extends Me {
     "OtherTools" : { "Git", "Figma", "Postman", "VS Code" }
   };
 }
-
+```
 ---
 
-<div align="center"> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/divider.gif?raw=true" width="80%"/> </div>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25"/> Currently exploring Next.js & AWS Amplify
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?raw=true" width="25"/> Currently exploring **Next.js** & **AWS Amplify**
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20"/> Passionate about building modern web apps with great UI/UX
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif?raw=true" width="25"/> Passionate about building modern web apps with great UI/UX
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> Ask me about React, Node.js, or cloud development
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?raw=true" width="25"/> Ask me about **React**, **Node.js**, or **cloud development**
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"/> Fun fact: I debug best after midnight 🌙
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?raw=true" width="20"/> Fun fact: I debug best after midnight 🌙
+
 
 ---
 
@@ -78,7 +72,7 @@ Code Cycle 💻
      
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/divider.gif?raw=true" width="80%"/> </div> <!-- Optional Background Animation --> <div align="center"> <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="60%"> 
+<img src="https://github.com/wan-ilhami/profile/blob/main/images/divider.gif?raw=true" width="80%"/> </div> <!-- Optional Background Animation --> <div align="center"> <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="60%"> 
 </div>
 
 ---
