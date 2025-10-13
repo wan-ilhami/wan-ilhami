@@ -46,9 +46,9 @@ class About extends Me {
 ```
 ---
 
-<div align="center">
 
-### 💫 What I'm Up To
+
+## 💫 What I'm Up To
 
 <br>
 
@@ -58,6 +58,7 @@ class About extends Me {
 - 🌙 **I debug best after midnight**
 
 <br>
+<div align="center">
 
 ⭐ *Turning caffeine into clean code since day one.*
 
