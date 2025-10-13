@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="140" viewBox="0 0 1200 140" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Typing banner">
+  <style>
+    /* Background + layout */
+    svg { font-family: "SFMono-Regular", "Fira Code", "Roboto Mono", monospace; }
+    .bg { fill: #080912; }
+    .sub { fill: #9aa6bf; font-size:18px; opacity:0.9; }
+
+    /* Typing text style */
+    .txt {
+      fill: #cbe7ff;
+      font-size: 36px;
+      letter-spacing: 1px;
+      font-weight: 600;
+      dominant-baseline: middle;
+    }
+
+    /* Masking trick: use stroke-dash to reveal text like typing */
+    .reveal {
+      stroke: none;
+      /* Use a path-length-like trick by applying a clipPath to the text */
+      /* We'll animate a translating rect to reveal the text */
+    }
+
+    /* Animated cursor */
+    .cursor {
+      fill: #5ee6ff;
+      animation: blink 1s steps(2, start) infinite;
+    }
+
+    @keyframes blink {
+      0%, 50% { opacity: 1; }
+      50.1%, 100% { opacity: 0; }
+    }
+
+    /* Reveal animation using a moving mask rectangle */
+    .mask-rect {
+      fill: white;
+      transform-origin: 0 0;
+      animation: reveal 4s steps(28, end) forwards;
+    }
+
+    @keyframes reveal {
+      from { transform: translateX(0); }
+      to   { transform: translateX(100%); } /* expands across the text */
+    }
+
+    /* Slow fade-in for subtitle */
+    .subtitle { opacity: 0; animation: fadeIn 1s ease 3.8s forwards; }
+    @keyframes fadeIn { to { opacity: 1; } }
+  </style>
+
+  <!-- background -->
+  <rect class="bg" x="0" y="0" width="1200" height="140" rx="12" />
+
+  <!-- left icon / avatar circle (optional) -->
+  <g transform="translate(28,22)">
+    <circle cx="36" cy="36" r="36" fill="#0f1724" stroke="#0b89a6" stroke-width="1.2"/>
+    <!-- simple initials -->
+    <text x="36" y="42" text-anchor="middle" fill="#9be8ff" font-size="20" font-weight="700">WI</text>
+  </g>
+
+  <!-- main grouping -->
+  <g transform="translate(100,72)">
+
+    <!-- Subtitle (fades in after typing) -->
+    <text class="sub subtitle" x="0" y="40">Hi, I build beautiful web apps with React & Next.js</text>
+
+    <!-- Create a mask group: a white rect will move and reveal the cyan text -->
+    <defs>
+      <clipPath id="text-clip">
+        <!-- text shape used as clipPath by duplicating exact text (keeps crispness) -->
+        <text x="0" y="10" class="txt" style="font-size:36px;">Hi, I'm Wan Ilhami 👋 | React & Next.js Developer</text>
+      </clipPath>
+    </defs>
+
+    <!-- visible text (slightly dim) as background for depth -->
+    <text x="0" y="10" class="txt" fill="#113242" style="font-size:36px;">Hi, I'm Wan Ilhami 👋 | React & Next.js Developer</text>
+
+    <!-- top layer: clipped reveal -->
+    <g clip-path="url(#text-clip)">
+      <!-- mask rect that moves to reveal the text -->
+      <rect class="mask-rect" x="-4" y="-28" width="1200" height="80" />
+      <!-- the actual bright text sits above the rect so revealed portion shows bright color -->
+      <text x="0" y="10" class="txt" style="font-size:36px;">Hi, I'm Wan Ilhami 👋 | React & Next.js Developer</text>
+    </g>
+
+    <!-- blinking cursor: positioned at the end and synced to mask (approx) -->
+    <!-- cursor animation duration matches reveal duration (4s) so it looks like typing -->
+    <rect class="cursor" x="700" y="-24" width="6" height="40" rx="2"
+          style="animation: blink 1s steps(2,start) infinite, moveCursor 4s steps(28,end) forwards;" />
+
+    <style>
+      /* moveCursor runs once and moves cursor to end as reveal progresses */
+      @keyframes moveCursor {
+        0%   { transform: translateX(0); }
+        100% { transform: translateX(620px); } /* adjust to match text length */
+      }
+    </style>
+
+  </g>
+
+  <!-- accessibility title (screen-readers) -->
+  <title>Hi, I’m Wan Ilhami — React & Next.js Developer</title>
+</svg>
