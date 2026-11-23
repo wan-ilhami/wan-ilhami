@@ -1,5 +1,5 @@
 <div align="center" width="50%"> 
-  <img src="https://github.com/wan-ilhami/profile/blob/main/dev-working_rounded.gif?raw=true" alt="Workspace" width="50%"/>  
+  <img src="https://github.com/wan-ilhami/wan-ilhami/blob/master/dev-working_rounded.gif?raw=true" alt="Workspace" width="50%"/>  
 
   ![Profile Views](https://komarev.com/ghpvc/?username=wan-ilhami&style=flat&color=orange&label=PROFILE+VIEWS)
   [![LinkedIn Badge](https://img.shields.io/badge/Wan%20Ilhami-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/wan-ilhami-43515a184/)
@@ -7,8 +7,19 @@
 
 ---
 
+# 🚀 Projects
+
+<!-- projects:start -->
+- **inviteje** — [inviteje.vercel.app](https://inviteje.vercel.app) · [source](https://github.com/wan-ilhami/inviteje-public)
+- **resumeje** — [www.resumeje.my](https://www.resumeje.my) · [source](https://github.com/wan-ilhami/resumeje-public)
+- **portfolio** — [www.wanilhamis.my](https://www.wanilhamis.my)
+- **travelje** — [travelje.vercel.app](https://travelje.vercel.app) · [source](https://github.com/wan-ilhami/travelje-public)
+<!-- projects:end -->
+
+---
+
 # 💫 About Me
-- 🚀 Building: **E-Nota Hantaran (Felda)** — making the web a little smarter, one feature at a time.<br>
+- 🚀 Building: a set of small web products, live below.<br>
 - 🤝 Open to: **Collaborating on fun web projects, creative ideas, or open-source adventures.**<br>
 - 🌱 Currently diving deeper into **React.js**, **Next.js**, and **AWS**.<br>
 - 🎨 Fun fact: I can spend hours tweaking a single UI pixel… just to make it *feel* right 😄
